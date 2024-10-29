@@ -1,6 +1,6 @@
 # *Banco de Dados*
 
-- Comando básicos de SQL 👀
+*Comando básicos de SQL* 👀
   
 - _CREATE:_ para criar banco de dados
 - _ALTER:_ modifcar e alterar colunas
